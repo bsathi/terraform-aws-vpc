@@ -9,6 +9,7 @@ IGW
 Public Route table
 Private Route table
 Database Route table
+
 EIP for NAT
 NAT Gateway in public subnet 1a az
 IGW route is added to public route table
@@ -17,6 +18,7 @@ Route table association with subnets
 VPC to default VPC peering
 Public route table to default VPC route
 Default VPC main route table to created VPC route
+
 Inputs
 vpc_cidr - (Required). User must supply the CIDR for VPC.
 project_name - (Required). User must supply the project name.
