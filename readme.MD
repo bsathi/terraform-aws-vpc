@@ -9,7 +9,6 @@ IGW
 Public Route table
 Private Route table
 Database Route table
-
 EIP for NAT
 NAT Gateway in public subnet 1a az
 IGW route is added to public route table
